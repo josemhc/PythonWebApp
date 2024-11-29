@@ -40,3 +40,4 @@ EXPOSE 443
 
 # Inicia Apache cuando el contenedor arranque
 CMD ["apache2ctl", "-D", "FOREGROUND"]
+
