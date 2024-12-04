@@ -1,0 +1,9 @@
+# Ignorar carpetas de entornos virtuales
+venv/
+
+# Ignorar configuraciones de IDEs
+.idea/
+
+# Ignorar archivos de caché de Python
+*.pyc
+__pycache__/
