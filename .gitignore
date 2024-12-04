@@ -1,5 +1,5 @@
 # Ignorar carpetas de entornos virtuales
-venv/
+.venv/
 
 # Ignorar configuraciones de IDEs
 .idea/
